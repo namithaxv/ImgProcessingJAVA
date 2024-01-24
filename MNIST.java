@@ -1,8 +1,3 @@
-/*
- * Name: Namitha Vishnupad
- * PID:  A17371450
- */
-
 import java.io.*;
 import java.nio.file.Paths;
 import java.util.Arrays;
