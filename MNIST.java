@@ -2,14 +2,6 @@ import java.io.*;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.zip.GZIPInputStream;
-
-/**
- * Implementation of KNN using MyPriorityQueue on the MNIST dataset
- *
- * @author Namitha Vishnupad
- * @since 11/30/2023
- */
-
 public class MNIST {
 
     public static final int NUM_TEST = 1_000;   // can be up to 10k
